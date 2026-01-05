@@ -14,4 +14,4 @@ Este software se distribuye bajo la licencia **Creative Commons Atribución-NoCo
 - **Sin Derivadas:** No se permite la distribución de versiones modificadas de este código.
 
 ---
-© 2026 jDarkxng | [jdarkxng.blogspot.com](https://jdarkxng.blogspot.com)
+jDarkxng © 2026 | [jdarkxng.blogspot.com](https://jdarkxng.blogspot.com)
